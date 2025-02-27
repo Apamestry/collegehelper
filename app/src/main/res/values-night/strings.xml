@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="timetable">Timetable</string>
+    <string name="attendance">Attendance</string>
+    <string name="profile">Profile</string>
+    <string name="college_notices_activities"><![CDATA[College Notices & Activities]]></string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="attendance_section">Attendance Section</string>
+    <string name="timetable_section">Timetable Section</string>
+</resources>
